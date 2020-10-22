@@ -1,1 +1,1 @@
-# Pterodactyl_panel-1.0.0_RU
+# Pterodactyl_panel-1.0.1_RU
